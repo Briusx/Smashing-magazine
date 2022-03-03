@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stylesheet.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <div class="topnav">
+            <img src="https://www.smashingmagazine.com/images/logo--full.svg" alt="Logo"
+            width="200"
+            height="90">
+            <a href="#home" class="white"><strong>Articles</a>
+            <a href="#news" class="white"><strong>Books</strong></a>
+            <a href="#home" class="white"><strong>Workshops</a>
+            <a href="#news" class="white"><strong>Membership</strong></a>
+            <a href="#home" class="white-ish"><storng><span class="button-highlight">More</span></storng></a>
+            <input type="text" placeholder="Search articles...">
+        </div>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Accessibility</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">CSS</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">JavaScript</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Usability</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Design</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Figma</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Wallpapers</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">React</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Vue</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Round-ups</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Web Design</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Guides</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Business</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Carreer</span></strong></a>
+        <a href="https://www.smashingmagazine.com" class="red"><strong><span class="simple-highlight">Privacy</span></strong></a>
+</head>
+
+<body>
+    <div class="columnas">
+        <div class="card1">
+            <div class="container1">
+              <h2><b>Título 1</b></h2>
+              <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+              <a href="#" class="btn btn-primary">Button</a>
+            </div>
+        </div>
+        <div class="card2">
+            <div class="container2">
+              <h2><b>Título 2</b></h2>
+              <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+              <a href="#" class="btn btn-primary">Button</a>
+            </div>
+        </div>
+        <div class="card3">
+            <div class="container3">
+              <h2><b>Título 3</b></h2>
+              <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+              <a href="#" class="btn btn-primary">Button</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+
+            <div class="col">
+                <img src="https://images.assetsdelivery.com/compings_v2/koblizeek/koblizeek1901/koblizeek190100017.jpg" alt="User profile"
+                width="90"
+                height="90">
+                <p class="usuario">Nombre Apellido</p>
+                <p class="Articulo">Nombre del artículo</p>
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="slider">
+            <div class="slide" id="slide-1">
+                <div class="container1">
+                    <img src="https://www.smashingmagazine.com/images/smashing-cat/cat-family-books.svg" alt="cat1"
+                    width="300"
+                    height="300">
+                    <h2><b>Título 1</b></h2>
+                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+                    <a href="#" class="btn btn-primary">Button</a>
+                  </div>
+            </div>
+            <div class="slide" id="slide-2">
+                <div class="container2">
+                    <img src="https://www.smashingmagazine.com/images/smashing-cat/cat-family-workshops.svg" alt="cat2"
+                    width="300"
+                    height="300">
+                    <h2><b>Título 1</b></h2>
+                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+                    <a href="#" class="btn btn-primary">Button</a>
+                  </div>
+            </div>
+            <div class="slide" id="slide-3">
+                <div class="container3">
+                    <img src="https://www.smashingmagazine.com/images/smashing-cat/cat-family-job-board.svg" alt="cat3"
+                    width="300"
+                    height="300">
+                    <h2><b>Título 1</b></h2>
+                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+                    <a href="#" class="btn btn-primary">Button</a>
+                  </div>
+            </div>
+            <div class="slide" id="slide-4">
+                <div class="container1">
+                    <img src="https://www.smashingmagazine.com/images/smashing-cat/cat-family-membership.svg" alt="cat4"
+                    width="300"
+                    height="300">
+                    <h2><b>Título 1</b></h2>
+                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+                    <a href="#" class="btn btn-primary">Button</a>
+                  </div>
+            </div>
+            <div class="slide" id="slide-5">
+                <div class="container2">
+                    <img src="https://www.smashingmagazine.com/images/smashing-cat/cat-family-mailman.svg" alt="cat5"
+                    width="300"
+                    height="300">
+                    <h2><b>Título 1</b></h2>
+                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</h3>
+                    <a href="#" class="btn btn-primary">Button</a>
+                  </div>
+            </div>
+    </div>
+
+
+
+
+
+
+
+ 
+    <div class="seccion">
+        <p class="subtitulo">Subtitulo de la sección</p>
+        <p class="titulo">Titulo de la sección</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <div class="text-center">
+            <button type="submit">Explore all speakers and topics</button>
+        </div>
+        <img src="https://www.smashingmagazine.com/images/events/online-workshops-summer.svg" alt="imagen1">
+
+    </div>
+
+
+</body>
+<footer>
+    <p class="title-footer">BROWSE ALL SMASHING MAGAZINE CONTENT</p>
+    <a href="https://www.smashingmagazine.com" class="blanco">Accessibility</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">CSS</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">JavaScript</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Usability</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Design</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Figma</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Wallpapers</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">React</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Vue</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Round-ups</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Web Design</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Guides</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Business</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Carreer</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Privacy</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Accessibility</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">CSS</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">JavaScript</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Usability</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Design</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Figma</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Wallpapers</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">React</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Vue</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Round-ups</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Web Design</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Guides</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Business</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Carreer</a>
+    <a href="https://www.smashingmagazine.com" class="blanco">Privacy</a>
+
+
+
+</footer>
+
+</html>
